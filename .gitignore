@@ -1,0 +1,39 @@
+# Build
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Test logs and reports
+test-results/
+test-output/
+coverage/
+reports/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# NetBeans
+nbbuild/
+nbdist/
+nbproject/
+.nb-gradle/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
